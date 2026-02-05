@@ -29,8 +29,7 @@
 - Preparing for internships & industry exposure  
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sohan-kumar-aryan432
-
+- 💼 LinkedIn:linkedin.com/in/sohan-kumar-eng
 ⭐ *Thank you for visiting my GitHub profile!*  
 *Feel free to explore my repositories and connect with me.*
 ⭐ Always eager to learn, build, and grow in the field of Robotics & Automation.
